@@ -1,0 +1,11 @@
+INTERACCIÓN CON EL VIDEOJUEGO:
+
+-Cambiar vistas: tecla 'v'
+-Interactuar con el Giroide: clic derecho para desplegar menú interactivo
+
+Las estadísticas de la Mascota Virtual disminuirán durante la ejecución
+del videojuego. Si se cierra, se almacenarán las estadísticas en un
+fichero de texto en el directorio base, para su lectura al abrirse de
+nuevo el videojuego. Además también se tendrá en cuenta el paso del
+tiempo fuera de la ejecución, para disminuir las estadísticas en
+consecuencia.
